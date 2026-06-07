@@ -5,7 +5,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 [![View Notebook](https://img.shields.io/badge/View%20Notebook-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/ayhambokli/finops-technova-v2/blob/main/TechNova_v2_Analysis.ipynb)
-[![Open Dashboard](https://img.shields.io/badge/Open%20Dashboard-Streamlit-FF4B4B?logo=streamlit)](YOUR_STREAMLIT_URL_HERE)
+[[![Open Dashboard](https://img.shields.io/badge/Open%20Dashboard-Streamlit-FF4B4B?logo=streamlit)](YOUR_STREAMLIT_URL_HERE)
+](https://finops-technova-v2-xxxxxx.streamlit.app)
 
 > **A FinOps data analysis project** simulating a Cortex Reply consulting engagement — analyzing 6 months of AWS cost data across 5 teams, 4 regions, and 10 services to identify **€16,366 in savings (43% reduction)**.
 
